@@ -1,0 +1,33 @@
+﻿  mayaRun.cpp
+E:\C++ projekt\Custom Format\C++ API\UD1447 Projekt\mayaRun.cpp(20,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\C++ projekt\Custom Format\C++ API\UD1447 Projekt\mayaRun.cpp(138,20): warning C4018: '<': signed/unsigned mismatch
+E:\C++ projekt\Custom Format\C++ API\UD1447 Projekt\mayaRun.cpp(150,21): warning C4018: '<': signed/unsigned mismatch
+E:\C++ projekt\Custom Format\C++ API\UD1447 Projekt\mayaRun.cpp(176,23): warning C4018: '<': signed/unsigned mismatch
+E:\C++ projekt\Custom Format\C++ API\UD1447 Projekt\mayaRun.cpp(209,23): warning C4018: '<': signed/unsigned mismatch
+E:\C++ projekt\Custom Format\C++ API\UD1447 Projekt\mayaRun.cpp(218,25): warning C4018: '<': signed/unsigned mismatch
+E:\C++ projekt\Custom Format\C++ API\UD1447 Projekt\mayaRun.cpp(278,23): warning C4018: '<': signed/unsigned mismatch
+E:\C++ projekt\Custom Format\C++ API\UD1447 Projekt\mayaRun.cpp(311,23): warning C4018: '<': signed/unsigned mismatch
+E:\C++ projekt\Custom Format\C++ API\UD1447 Projekt\mayaRun.cpp(320,25): warning C4018: '<': signed/unsigned mismatch
+E:\C++ projekt\Custom Format\C++ API\UD1447 Projekt\mayaRun.cpp(147,29): warning C4996: 'Autodesk::Maya::OpenMaya20220000::MFnDependencyNode::findPlug': Use the MFnDependencyNode::findPlug( const MString&, bool, MStatus* ) method instead.
+E:\C++ projekt\Custom Format\C++ API\UD1447 Projekt\mayaRun.cpp(173,40): warning C4996: 'Autodesk::Maya::OpenMaya20220000::MFnDependencyNode::findPlug': Use the MFnDependencyNode::findPlug( const MString&, bool, MStatus* ) method instead.
+E:\C++ projekt\Custom Format\C++ API\UD1447 Projekt\mayaRun.cpp(206,41): warning C4996: 'Autodesk::Maya::OpenMaya20220000::MFnDependencyNode::findPlug': Use the MFnDependencyNode::findPlug( const MString&, bool, MStatus* ) method instead.
+E:\C++ projekt\Custom Format\C++ API\UD1447 Projekt\mayaRun.cpp(215,56): warning C4996: 'Autodesk::Maya::OpenMaya20220000::MFnDependencyNode::findPlug': Use the MFnDependencyNode::findPlug( const MString&, bool, MStatus* ) method instead.
+E:\C++ projekt\Custom Format\C++ API\UD1447 Projekt\mayaRun.cpp(275,38): warning C4996: 'Autodesk::Maya::OpenMaya20220000::MFnDependencyNode::findPlug': Use the MFnDependencyNode::findPlug( const MString&, bool, MStatus* ) method instead.
+E:\C++ projekt\Custom Format\C++ API\UD1447 Projekt\mayaRun.cpp(308,39): warning C4996: 'Autodesk::Maya::OpenMaya20220000::MFnDependencyNode::findPlug': Use the MFnDependencyNode::findPlug( const MString&, bool, MStatus* ) method instead.
+E:\C++ projekt\Custom Format\C++ API\UD1447 Projekt\mayaRun.cpp(317,56): warning C4996: 'Autodesk::Maya::OpenMaya20220000::MFnDependencyNode::findPlug': Use the MFnDependencyNode::findPlug( const MString&, bool, MStatus* ) method instead.
+E:\C++ projekt\Custom Format\C++ API\UD1447 Projekt\mayaRun.cpp(407,22): warning C4018: '<': signed/unsigned mismatch
+E:\C++ projekt\Custom Format\C++ API\UD1447 Projekt\mayaRun.cpp(411,68): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\C++ projekt\Custom Format\C++ API\UD1447 Projekt\mayaRun.cpp(412,68): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\C++ projekt\Custom Format\C++ API\UD1447 Projekt\mayaRun.cpp(413,68): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\C++ projekt\Custom Format\C++ API\UD1447 Projekt\mayaRun.cpp(450,67): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\C++ projekt\Custom Format\C++ API\UD1447 Projekt\mayaRun.cpp(466,22): warning C4018: '<': signed/unsigned mismatch
+E:\C++ projekt\Custom Format\C++ API\UD1447 Projekt\mayaRun.cpp(477,22): warning C4018: '<': signed/unsigned mismatch
+E:\C++ projekt\Custom Format\C++ API\UD1447 Projekt\mayaRun.cpp(442,33): warning C4996: 'Autodesk::Maya::OpenMaya20220000::MDagPath::getAPathTo': The function signature was inconsistent with the rest of the API. Please use the other MDagPath::getAPathTo method instead.
+E:\C++ projekt\Custom Format\C++ API\UD1447 Projekt\mayaRun.cpp(513,20): warning C4018: '<': signed/unsigned mismatch
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/OPT:ICF' specification
+  mayaRun.obj : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+     Creating library E:\C++ projekt\Custom Format\C++ API\x64\Release\MayaAPI.lib and object E:\C++ projekt\Custom Format\C++ API\x64\Release\MayaAPI.exp
+  Generating code
+  Finished generating code
+  MayaAPI.vcxproj -> E:\C++ projekt\Custom Format\C++ API\x64\Release\MayaAPI.mll
